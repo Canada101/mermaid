@@ -23,11 +23,5 @@ graph TD
       ES(External Systems)
     end
 ```
-    UI --> BC
-    BC --> SC
-    SC --> DB
-    BC --> CM
-    BC --> LM
-    BC --> ES
-  end
+
   
